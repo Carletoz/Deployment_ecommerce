@@ -1,0 +1,219 @@
+[
+    {
+      "name": "Iphone 15",
+      "description": "The best phone in the world",
+      "price": 199.99,
+      "stock": 12,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/61NBF0uWXRL.__AC_SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "name": "Samsung Galaxy S21",
+      "description": "Experience the next level of innovation",
+      "price": 799.99,
+      "stock": 8,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/81gI6XeYQ2L._AC_SX679_.jpg"
+    },
+    {
+      "name": "Google Pixel 6",
+      "description": "The best of Google in your hands",
+      "price": 599.99,
+      "stock": 15,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/71c5RyVsoTL._AC_SX679_.jpg"
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "description": "Your best shot",
+      "price": 699.99,
+      "stock": 10,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/61Fy+u9uqPL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Sony Xperia 1 III",
+      "description": "Speed and beyond",
+      "price": 999.99,
+      "stock": 7,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/61y1OAf9d3L._AC_SX679_.jpg"
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "description": "Visionary photography",
+      "price": 899.99,
+      "stock": 9,
+      "category": "Smartphone",
+      "imgUrl": "https://m.media-amazon.com/images/I/61VVQ2ZRPaL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Dell UltraSharp U2720Q",
+      "description": "27-inch 4K USB-C Monitor",
+      "price": 699.99,
+      "stock": 5,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71ABl9qvTUL._AC_SX679_.jpg"
+    },
+    {
+      "name": "LG 27GN950-B",
+      "description": "27-inch UHD (3840 x 2160) Nano IPS Monitor",
+      "price": 799.99,
+      "stock": 3,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71HgVxHSkLL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Samsung Odyssey G7",
+      "description": "32-inch Curved Gaming Monitor",
+      "price": 649.99,
+      "stock": 8,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/81Zt42ioCgL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Asus ROG Swift PG259QN",
+      "description": "24.5-inch 360Hz FHD Gaming Monitor",
+      "price": 699.99,
+      "stock": 4,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/81iV1GM-QPL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Acer Predator X27",
+      "description": "27-inch UHD (3840 x 2160) IPS Monitor",
+      "price": 1299.99,
+      "stock": 2,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/81rEvhg2tHL._AC_SX679_.jpg"
+    },
+    {
+      "name": "BenQ PD3200U",
+      "description": "32-inch 4K UHD IPS Monitor",
+      "price": 749.99,
+      "stock": 6,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71VHj8pFryL._AC_SX679_.jpg"
+    },
+    {
+      "name": "ViewSonic VP3268a-4K",
+      "description": "32-inch 4K UHD Professional Monitor",
+      "price": 899.99,
+      "stock": 3,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71Y3YoUzQAL._AC_SX679_.jpg"
+    },
+    {
+      "name": "HP Z27",
+      "description": "27-inch 4K UHD Display Monitor",
+      "price": 649.99,
+      "stock": 7,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/61Nk2xTJN6L._AC_SX679_.jpg"
+    },
+    {
+      "name": "Philips 276E8VJSB",
+      "description": "27-inch 4K UHD IPS Monitor",
+      "price": 349.99,
+      "stock": 10,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/91U2WfUQrhL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Gigabyte M27Q",
+      "description": "27-inch 170Hz QHD Gaming Monitor",
+      "price": 449.99,
+      "stock": 5,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71MNRGcbxlL._AC_SX679_.jpg"
+    },
+    {
+      "name": "MSI Optix MAG272CQR",
+      "description": "27-inch Curved Gaming Monitor",
+      "price": 399.99,
+      "stock": 8,
+      "category": "Monitor",
+      "imgUrl": "https://m.media-amazon.com/images/I/71Sg0IF3VEL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Logitech MX Keys",
+      "description": "Advanced Wireless Illuminated Keyboard",
+      "price": 99.99,
+      "stock": 20,
+      "category": "Keyboard",
+      "imgUrl": "https://m.media-amazon.com/images/I/71g0dH2qHTL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Corsair K95 RGB Platinum",
+      "description": "Mechanical Gaming Keyboard",
+      "price": 199.99,
+      "stock": 15,
+      "category": "Keyboard",
+      "imgUrl": "https://m.media-amazon.com/images/I/81h8ZgBu+PL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Razer BlackWidow V3 Pro",
+      "description": "Wireless Mechanical Gaming Keyboard",
+      "price": 229.99,
+      "stock": 10,
+      "category": "Keyboard",
+      "imgUrl": "https://m.media-amazon.com/images/I/81kC4A2t1eL._AC_SX679_.jpg"
+    },
+    {
+      "name": "SteelSeries Apex Pro",
+      "description": "Mechanical Gaming Keyboard",
+      "price": 179.99,
+      "stock": 12,
+      "category": "Keyboard",
+      "imgUrl": "https://m.media-amazon.com/images/I/81uAqs27uHL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Keychron K2",
+      "description": "Wireless Mechanical Keyboard",
+      "price": 89.99,
+      "stock": 18,
+      "category": "Keyboard",
+      "imgUrl": "https://m.media-amazon.com/images/I/71L9k6T-JTL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Logitech MX Master 3",
+      "description": "Advanced Wireless Mouse",
+      "price": 99.99,
+      "stock": 25,
+      "category": "Mouse",
+      "imgUrl": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Razer DeathAdder V2",
+      "description": "Ergonomic Wired Gaming Mouse",
+      "price": 69.99,
+      "stock": 30,
+      "category": "Mouse",
+      "imgUrl": "https://m.media-amazon.com/images/I/61DoAGqM7XL._AC_SX679_.jpg"
+    },
+    {
+      "name": "SteelSeries Rival 600",
+      "description": "Dual Sensor Gaming Mouse",
+      "price": 79.99,
+      "stock": 20,
+      "category": "Mouse",
+      "imgUrl": "https://m.media-amazon.com/images/I/71U6c8+unqL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Corsair Dark Core RGB/SE",
+      "description": "Wireless Gaming Mouse",
+      "price": 89.99,
+      "stock": 15,
+      "category": "Mouse",
+      "imgUrl": "https://m.media-amazon.com/images/I/61-KZ2iuxQL._AC_SX679_.jpg"
+    },
+    {
+      "name": "Logitech G Pro Wireless",
+      "description": "Professional Gaming Mouse",
+      "price": 129.99,
+      "stock": 18,
+      "category": "Mouse",
+      "imgUrl": "https://m.media-amazon.com/images/I/71kgZZqIAfL._AC_SX679_.jpg"
+    }
+  ]
+  
